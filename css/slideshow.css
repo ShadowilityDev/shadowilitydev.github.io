@@ -43,7 +43,11 @@
   }
   
   .slide:nth-of-type(3) {
-    background: #C75534;
+    background-image: url(https://clubbingtv.com/listing/spotify/);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
   }
   
   .slide:nth-of-type(4) {
